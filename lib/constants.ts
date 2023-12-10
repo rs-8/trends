@@ -1,5 +1,5 @@
 export const languages = {
-  Any: '',
+  Any: 'any',
   JavaScript: 'javascript',
   TypeScript: 'typescript',
   Go: 'go',

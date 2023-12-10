@@ -1,7 +1,7 @@
 import { stringify } from 'querystring';
 
 export function formatParams(lang: string, time: number) {
-  const language = lang ? ` language:${lang}` : '';
+  const language = lang !== 'any' ? ` language:${lang}` : '';
 
   const startDate = new Date();
 
