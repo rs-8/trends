@@ -22,4 +22,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Vercel
 
-[Link](https://trends-rosy.vercel.app/) from the creators of Next.js.
+https://trends-rosy.vercel.app/
